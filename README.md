@@ -1,6 +1,11 @@
 # Blockly [![Build Status]( https://travis-ci.org/google/blockly.svg?branch=master)](https://travis-ci.org/google/blockly)
 
 
+# mine分支功能改进：
+- demos/blocklyfactory 构建自定义块，修改预览功能的js，可预览（官方的不翻墙加载不出来 预览不了）
+
+
+
 Google's Blockly is a web-based, visual programming editor.  Users can drag
 blocks together to build programs.  All code is free and open source.
 
