@@ -196,7 +196,7 @@ Code.bindClick = function(el, func) {
  */
 Code.importPrettify = function() {
   var script = document.createElement('script');
-  script.setAttribute('src', 'https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js');
+  script.setAttribute('src', 'http://cdn.staticfile.org/prettify/r298/prettify.min.js');
   document.head.appendChild(script);
 };
 
