@@ -1,7 +1,15 @@
 # Blockly [![Build Status]( https://travis-ci.org/google/blockly.svg?branch=master)](https://travis-ci.org/google/blockly)
 
 
-# mine分支功能改进：
+
+# mine分支
+## Blockly Developer Tools 使用
+```
+cd demos 
+npm install 
+浏览器访问 file:///xxxxxxxxxx/demos/blockfactory/index.html 即可构建自定义块
+```
+## 功能改进：
 - demos/blocklyfactory 构建自定义块，修改预览功能的js，可预览（官方的不翻墙加载不出来 预览不了）
 
 
